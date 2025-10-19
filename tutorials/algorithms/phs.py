@@ -92,7 +92,7 @@ class PHS:
             if offspring_fitness >= 1:
                 if len(self.TM) >= self.TM_size:
                     idx = np.random.randint(self.TM_size)
-                    if self.TM_fitness[idx] >= offspring_fitness:
+                    if offspring_fitness >= self.TM_fitness[idx]:
                         self.TM[idx] = offspring.copy()
                         self.TM_fitness[idx] = offspring_fitness
                 else:
