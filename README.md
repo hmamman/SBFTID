@@ -88,7 +88,7 @@ The table below summarizes key details of each baseline methods used to evaluate
 
 | Method   | Paper Title                                                                                           | GitHub Repo                                                        | Name     |
 |----------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|----------|
-| ADF      | *Automatic Fairness Testing of Neural Classifiers through Adversarial Sampling*                       | [pxzhang94/ADF](https://github.com/pxzhang94/ADF)                   | aft      |
+| ADF      | *Automatic Fairness Testing of Neural Classifiers through Adversarial Sampling*                       | [pxzhang94/ADF](https://github.com/pxzhang94/ADF)                   | adf      |
 | NeuronFair | *Interpretable White-Box Fairness Testing through Biased Neuron Identification*                     | [haibinzheng/NeuronFair](https://github.com/haibinzheng/NeuronFair) | neuronfair |
 | AEQUITAS | *Automated Directed Fairness Testing*                                                                  | [sakshiudeshi/Aequitas](https://github.com/sakshiudeshi/Aequitas)  | aequitas |
 | SG       | *Black-Box Fairness Testing of Machine Learning Models*                                                | [waving7799/ExpGA](https://github.com/waving7799/ExpGA) (SG module) | sg       |
